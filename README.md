@@ -1,2 +1,1 @@
-# MadLab23
-mad lab exercises
+This repository contain mad lab exercises.
